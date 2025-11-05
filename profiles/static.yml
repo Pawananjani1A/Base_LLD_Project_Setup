@@ -9,7 +9,7 @@
   "log_path": "./",
   "grpc_host": "0.0.0.0",
   "grpc_port": 50565,
-  "kafka_brokers": "b-2.qamskexpress.hj0hzy.c2.kafka.ap-south-1.amazonaws.com",
+  "kafka_brokers": "",
   "redis_addr": "localhost:6379",
   "redis_password": "",
   "redis_db": 0,
